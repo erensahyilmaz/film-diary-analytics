@@ -105,5 +105,3 @@ Bu proje [Lisans Türü] lisansı altında paylaşılmıştır.
 ---
 
 ### 🎭 "Film, hayatın bir aynasıdır; sadece daha iyi senaryosu vardır." - Unknown
-
-*Bu proje, veri bilimi tekniklerini kullanarak kişisel film tercihlerini analiz etmenin güzel bir örneğidir.*
